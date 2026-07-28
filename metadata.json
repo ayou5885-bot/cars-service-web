@@ -1,0 +1,6 @@
+{
+  "name": "WhoCanFixMyCar",
+  "description": "UK's leading online vehicle repair comparison platform connecting drivers with trusted local garages for quotes, servicing, MOT, and repairs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
